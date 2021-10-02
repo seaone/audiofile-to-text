@@ -9,3 +9,8 @@ chmod a+x cgi-bin/result.py
 python3 -m http.server --cgi
 
 go to http://localhost:8000
+
+---
+
+### Client repo
+https://github.com/seaone/audiofile-to-text-client
