@@ -1,0 +1,4 @@
+dash==2.0.0
+dash-bootstrap-components==1.0.0
+multi-rake==0.0.2
+SpeechRecognition==3.8.1
