@@ -1,7 +1,7 @@
 ### Dash Example
 
 ```sh
-$ python -m venv venv
+$ python3 -m venv venv
 ```
 
 ```sh
@@ -13,7 +13,7 @@ $ pip install -r ./requirements.txt
 ```
 
 ```sh
-$ python -m app.py
+$ python -m app
 ```
 
 go to http://localhost:8050/
