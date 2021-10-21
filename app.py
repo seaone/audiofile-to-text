@@ -5,7 +5,7 @@ from components import form_component
 
 if __name__ == '__main__':
   app.layout = dbc.Container(
-    style={'paddingTop': '64px', 'paddingBottom': '64px', 'maxWidth': '720px'},
+    style = {'paddingTop': '64px', 'paddingBottom': '64px', 'maxWidth': '720px'},
     children = [
       dbc.Row(
         style = {'marginBottom': '24px'},
